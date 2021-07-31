@@ -44,5 +44,5 @@ Environmental variables can be download from WorldClim (Hijmans et al., 2005) an
 (4) Association between Environment, Genome, and Morphometry
 
 - 11-dbRDA.R:
-  Perfome Distance-based redundancy analyzes (dbRDA; Legendre & Anderson, 1999) to test for an association between environmental variables and genomic and morphometric distance with and without the effect of the geographic distance
+  Perfom Distance-based redundancy analyzes (dbRDA; Legendre & Anderson, 1999) to test for an association between environmental variables and genomic and morphometric distance with and without the effect of the geographic distance
 
