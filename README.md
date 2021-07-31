@@ -30,10 +30,10 @@ Environmental variables can be download from WorldClim (Hijmans et al., 2005) an
 - 7-sumstat.R
   Check the genetic diversity summary statistics for significant differences, and plots their means values and standard errors.
   
--8-Pop_structure.R
+- 8-Pop_structure.R
   Perform Principal Component Analysis (PCA), Tracy-Widom test, and Mantel test 
   
--9-moving&best_lhood.R
+- 9-moving&best_lhood.R
  Move files among folders to facilitate Fastsimcoal analysis
   
   
