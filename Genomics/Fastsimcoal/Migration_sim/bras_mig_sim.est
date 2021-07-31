@@ -1,0 +1,18 @@
+// Priors and rules file
+// *********************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max 
+//all Ns are in number of haploid individuals
+1  ANCSIZE     unif     10     500000   output
+1  NPOP        unif     10     500000   output
+1  TDIV        unif     10     1000000   output
+0  N1M       logunif  1e-8     1e2    output
+
+
+[RULES]
+
+[COMPLEX PARAMETERS]
+
+0  RESIZE = NANC/NPOP        hide
+0  MIG =    N1M/NPOP       output
