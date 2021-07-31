@@ -38,3 +38,11 @@ Environmental variables can be download from WorldClim (Hijmans et al., 2005) an
   
 (3) Morphometric Structure 
 
+- 10-Morphometrics.R:
+   Perform Normality tests, Principal Component Analysis (PCA), Discriminant Analysis, MANOVA, Student's t-test, Mann-Whitney t-test, Boxplots showing means values and standard errors of variables 
+
+(4) Association between Environment, Genome, and Morphometry
+
+- 11-dbRDA.R:
+  Perfome Distance-based redundancy analyzes (dbRDA; Legendre & Anderson, 1999) to test for an association between environmental variables and genomic and morphometric distance with and without the effect of the geographic distance
+
